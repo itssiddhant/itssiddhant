@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siddhant Srivastava</h1>
-<h3 align="center">Seeking a challenging role as a Software Developer or Cyber Security Analyst to leverage my proficiency in Python, Dart, Java, and web development. My goal is to contribute my technical skills and creativity while continuously learning and growing within a dynamic organization. Committed to delivering top-notch results and aspiring to achieve a leadership position in the IT field.</h3>
+<h3 align="center">Seeking a challenging role as a Software Developer or Cyber Security Analyst to leverage my proficiency in Python, Dart, Cyber Security and web development. My goal is to contribute my technical skills and creativity while continuously learning and growing within a dynamic organization. Committed to delivering top-notch results and aspiring to achieve a leadership position in the IT field.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itssidhant&label=Profile%20views&color=0e75b6&style=flat" alt="itssidhant" /> </p>
 
