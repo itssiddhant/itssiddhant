@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Feature Analysis and Recommendation System of YouTube Videos**
 
-- 🌱 I’m currently learning **Java, App Development, C++**
+- 🌱 I’m currently learning **App Development with Dart, Ethical Hacking**
 
 - 💬 Ask me about **Python, HTML, CSS**
 
