@@ -1,15 +1,26 @@
 <h1 align="center">Hi 👋, I'm Siddhant Srivastava</h1>
 <h3 align="center">Seeking a challenging role as a Software Developer or Cyber Security Analyst to leverage my proficiency in Python, Dart, Java, and web development. My goal is to contribute my technical skills and creativity while continuously learning and growing within a dynamic organization. Committed to delivering top-notch results and aspiring to achieve a leadership position in the IT field.</h3>
 
+<h3 align="left">Problem Solving Stats:</h3>
+<p>
+  <strong>LeetCode Problems Solved:</strong> <!--LEETCODE_SOLVED-->
+</p>
+<p>
+  <strong>Coding Ninjas Problems Solved:</strong> <!--CODINGNINJAS_SOLVED-->
+</p>
+<p>
+  <strong>GeeksforGeeks Problems Solved:</strong> <!--GFG_SOLVED-->
+</p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itssiddhant&show_icons=true&theme=dark)](https://github.com/itssiddhant/github-readme-stats)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=itssiddhant&bg_color=000000&color=ffffff&line=1be428&point=aeff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itssidhant&label=Profile%20views&color=0e75b6&style=flat" alt="itssidhant" /> </p>
 
+
 - 🌱 I’m currently learning **MERN, App Development, C++**
 
-- 💬 Ask me about **Python, Cyber Security**
+- 💬 Ask me about **Python, Web and App Development**
 
 - 📫 How to reach me **sidcodeshere@gmail.com**
 
