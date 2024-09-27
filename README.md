@@ -7,6 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itssidhant&label=Profile%20views&color=0e75b6&style=flat" alt="itssidhant" /> </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itssiddhant&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🌱 I’m currently learning **MERN, App Development, C++**
 
